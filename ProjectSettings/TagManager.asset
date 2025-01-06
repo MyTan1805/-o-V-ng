@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Big Gold
+  - Diamond
+  - small gold
+  - Small Stone
+  - Middle Gold
+  - Middle Stone
+  - Big Stone
+  - DELIVER_ITEM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 3719679355
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 3746024283
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 1132551667
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 2565316489
+    locked: 0
+  m_RenderingLayers:
+  - Default
